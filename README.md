@@ -3,9 +3,9 @@
 > Media Glitch Library for Python
 
 <div align="center">
-  <img src="https://i.imgur.com/XTP3x8a.jpg" height="270">
-  <img src="https://i.imgur.com/lyDldEX.jpg" height="270"> 
-  <img src="https://i.giphy.com/media/QxkMG1dOFWMYi0OrY5/giphy.gif" height="270">
+  <img src="https://i.imgur.com/XTP3x8a.jpg" height="255">
+  <img src="https://i.imgur.com/lyDldEX.jpg" height="255"> 
+  <img src="https://i.giphy.com/media/QxkMG1dOFWMYi0OrY5/giphy.gif" height="255">
 </div>
 
 **GlitchArt** is a Python library that applies a glitch effect to image and video files.
